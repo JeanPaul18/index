@@ -1,0 +1,48 @@
+html {
+  font-size:  10px;
+}
+p {
+  color: white;
+  font-family: courier;
+  font-size: 150%;
+}
+body {
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #333;
+  margin: 0;
+  background: black;
+}
+h1 {
+  font-size: 450%;
+  color: white;
+}
+h2 {
+  color: white;
+}
+img {
+  max-width: 50%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+  color: white;
+}
+li {
+  margin: 16px 0;
+  text-align: left;
+  color: white;
+  font-size: 18.5px;
+}
+h3 {
+  color: white;
+}
+figcaption {
+  color: white;
+}
